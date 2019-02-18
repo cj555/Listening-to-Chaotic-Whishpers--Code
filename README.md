@@ -2,7 +2,7 @@
 
 This repo is in progress. It is dedicated to an implementation of Listening to Chaotic Whispers. https://arxiv.org/abs/1712.02136v1
 We are writing a serie of blogpost to explain each step of our workflow. 
-You may find the first the first post on Medium : https://medium.com/@gkeng/make-your-computer-invest-like-a-human-ef0654ccdcff
+You may find the first post on Medium : https://medium.com/@gkeng/make-your-computer-invest-like-a-human-ef0654ccdcff
 
 Description of each file :
 - SP500_nasdaq100.csv : Csv file containing all companies in S&P 500 and Nasdaq
